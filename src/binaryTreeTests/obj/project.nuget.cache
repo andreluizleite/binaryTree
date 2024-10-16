@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M46jsKi4FAV1EpDABHvvJw/jQ7pYWKnvp2mAcw92NYDwCVYWEoK5BaJ8vkTzwfncnN9P2fBVTVz9Qgdl0XlYBQ==",
+  "dgSpecHash": "5HkeePtX8sMkqYQsMm29IbhetLidsPOyPgiRtQ5WONnPLxtid/Hok+9ocdFrr/ImWqp9rdP7V7xjoI3f/qAdbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\BinaryTree\\src\\binaryTreeTests\\binaryTreeTests.csproj",
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\BinaryTree\\src\\BinaryTreeTests\\BinaryTreeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
